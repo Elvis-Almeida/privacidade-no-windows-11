@@ -17,3 +17,9 @@ Essa wiki documenta a metodologia utilizada e os dados coletados durante a insta
 **Placa de rede:** Gigabit
 
 ---
+
+<div align="center">
+
+[**Acesse a Wiki com a documentação completa**](https://github.com/Elvis-Almeida/privacidade-no-windows-11/wiki)
+
+</div>
