@@ -28,7 +28,7 @@ Agora vamos configurar a rede da nossa máquina, onde vamos deixar a placa em **
 
 ## Capturando dados
 
-Antes de iniciar a máquina virtual foi iniciado a captura dos dados com a ferramenta [Wireshark](https://www.wireshark.org/) onde configurei o filtro para mostrar somente o trafego do MAC da máquina virtual, pois como eu estava pegando o trafego da minha placa de rede WiFi iria aparecer todo o trafego do meu computador misturado com a da máquina virtual e fazendo isso consigo isolar o trafego. após tudo configurado partimos para a instalação.
+Antes de iniciar a máquina virtual, foi iniciado a captura dos dados com a ferramenta [Wireshark](https://www.wireshark.org/) onde configurei o filtro para mostrar somente o trafego do MAC da máquina virtual, pois como eu estava pegando o trafego da minha placa de rede WiFi iria aparecer todo o trafego do meu computador misturado com a da máquina virtual e fazendo isso consigo isolar o trafego. após tudo configurado partimos para a instalação.
 
 ![image](https://github.com/Elvis-Almeida/privacidade-no-windows-11/assets/70353348/8a05f18f-0e0a-4a00-8f2f-6ece12eeb03d)
 
